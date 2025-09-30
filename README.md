@@ -63,77 +63,61 @@
 
 ![screenshot](screenshots/11.png)
 
-### الادارة
+### الاجازات
 
 ![screenshot](screenshots/12.png)
 
-### الادارة
+### الطلبات المعلقه للمدير
 
 ![screenshot](screenshots/13.png)
 
-### الادارة
+### مباشرة العمل
 
 ![screenshot](screenshots/14.png)
 
-### الادارة
+### اضافة اجازة
 
 ![screenshot](screenshots/15.png)
 
-### الادارة
+### بند الراتب
 
 ![screenshot](screenshots/16.png)
 
-### الادارة
+### رواتب الموظفين
 
 ![screenshot](screenshots/17.png)
 
-### الادارة
+### السلفيات
 
 ![screenshot](screenshots/18.png)
 
-### الادارة
+### تقييم الموظفين
 
 ![screenshot](screenshots/19.png)
 
-### الادارة
+### المشاريع
 
 ![screenshot](screenshots/20.png)
 
-### الادارة
+### ادارة المهام
 
 ![screenshot](screenshots/21.png)
 
-### الادارة
+### تقرير ميزان المراجعة
 
 ![screenshot](screenshots/22.png)
 
-### الادارة
+### تقرير دفتر الاستاذ
 
 ![screenshot](screenshots/23.png)
 
-### الادارة
+### تقرير قيود اليومية
 
 ![screenshot](screenshots/24.png)
 
-### الادارة
+### تقرير مركز التكلفة
 
 ![screenshot](screenshots/25.png)
 
 ---
 
-## ⚙️ متطلبات التشغيل
-
-- PHP >= 8.0
-- MySQL / MariaDB
-- Composer
-- Laravel Framework
-- خادم Apache/Nginx
-
----
-
-## 🚀 طريقة التشغيل
-
-1. استنسخ المستودع:
-   ```bash
-   git clone https://github.com/USERNAME/REPOSITORY.git
-   ```
