@@ -27,41 +27,97 @@
 
 ![screenshot](screenshots/2.png)
 
-### الحسابات
+### عرض قائمة العملاء
 
 ![screenshot](screenshots/3.png)
 
-### شئون الموظفين
+### المدير المالي
 
 ![screenshot](screenshots/4.png)
 
-### المشاريع
+### اضافة المصروفات
 
 ![screenshot](screenshots/5.png)
 
-### تقييم الموظفين
+### طباعة قيود يومية
 
 ![screenshot](screenshots/6.png)
 
-### الرواتب
+### اضافة قيود يومية
 
 ![screenshot](screenshots/7.png)
 
-### مراكز التكلفة
+### الحسابات
 
 ![screenshot](screenshots/8.png)
 
-### الأصول
+### مراكز التكلفة
 
 ![screenshot](screenshots/9.png)
 
-### التقارير
+### قائمة ملفات الموظفين
 
 ![screenshot](screenshots/10.png)
 
-### الإعدادات العامة
+### الادارة
 
 ![screenshot](screenshots/11.png)
+
+### الادارة
+
+![screenshot](screenshots/12.png)
+
+### الادارة
+
+![screenshot](screenshots/13.png)
+
+### الادارة
+
+![screenshot](screenshots/14.png)
+
+### الادارة
+
+![screenshot](screenshots/15.png)
+
+### الادارة
+
+![screenshot](screenshots/16.png)
+
+### الادارة
+
+![screenshot](screenshots/17.png)
+
+### الادارة
+
+![screenshot](screenshots/18.png)
+
+### الادارة
+
+![screenshot](screenshots/19.png)
+
+### الادارة
+
+![screenshot](screenshots/20.png)
+
+### الادارة
+
+![screenshot](screenshots/21.png)
+
+### الادارة
+
+![screenshot](screenshots/22.png)
+
+### الادارة
+
+![screenshot](screenshots/23.png)
+
+### الادارة
+
+![screenshot](screenshots/24.png)
+
+### الادارة
+
+![screenshot](screenshots/25.png)
 
 ---
 
